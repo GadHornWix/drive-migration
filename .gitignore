@@ -1,0 +1,7 @@
+source_token.json
+dest_token.json
+client_secret.json
+migration_log.json
+venv/
+__pycache__/
+*.pyc
